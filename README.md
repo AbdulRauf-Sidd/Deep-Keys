@@ -2,6 +2,12 @@
 
 **DeepSeek Shortcuts** is a lightweight browser extension designed to enhance the user experience on [DeepSeek AI](https://chat.deepseek.com/) by providing intuitive keyboard shortcuts for efficient navigation and interaction.
 
+## 🎥 Demo
+
+See the extension in action below:
+
+![DeepSeek Shortcuts Demo](assets/demo.gif)
+
 ## 🚀 Features
 
 This extension enables users to perform the following actions using shortcut keys:
